@@ -1,4 +1,4 @@
-# Hola, soy Carlos Aedo 👋
+# Hola, soy Carlos Aedo 
 
 ## Sobre mí
 
